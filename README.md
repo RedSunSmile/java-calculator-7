@@ -4,9 +4,9 @@
 
 자세한 관련 후기 내용은 blog를 참고 하시기 바랍니다.
 
-test ,github, application 3가지로 구분하여 내용을 작성하였습니다. 
+test ,github, application 3가지로 구분하여 내용을 작성하려고 합니다.
 
-내용을 한가지에 담기에는 혼란을 주어 에러 상황과 분야별로 단계적으로 순차 정리되는데로 올리겠습니다.
+내용을 한가지에 담기에는 혼란을 주어 에러 상황과 분야별로 상황여건에 따라 정리되는데로 올리겠습니다.
 
 Github & SourceTree & Visual Studio Code 정리
 
